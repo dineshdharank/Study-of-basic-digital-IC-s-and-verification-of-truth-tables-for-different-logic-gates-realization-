@@ -1,7 +1,7 @@
 ## Name:Dineshdharan.K
 ## Reg:23014095
 
-## Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+## Experiment No.01 Study of basic digital IC's and verification of truth tables for different logic gates realization.
 ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -63,20 +63,22 @@ Check all the gates following the same procedure.
 
 ## Program:
 
-![Screenshot 2023-12-15 142657](https://github.com/dineshdharank/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145980096/44d3ebd4-7b79-4baf-a640-4babece21a70)
+![290520610-7c5983b9-e241-42a0-a5e1-5804ceb0eb4f](https://github.com/dineshdharank/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145980096/a7208a08-364f-4797-af89-f64415624d07)
+
 
 ## Logic Diagram
 
-![Screenshot 2023-12-15 142714](https://github.com/dineshdharank/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145980096/6a8babfb-ee6b-4fa8-97fa-77620327ab4f)
+![290520372-2cbe0045-742a-4ae8-9116-aad08853c643](https://github.com/dineshdharank/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145980096/0e8357e9-50ec-43de-b634-006892050aea)
+
 
 ## Timing Diagram
 
-![Screenshot 2023-12-15 143040](https://github.com/dineshdharank/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145980096/966ebf98-fe8b-4188-b7da-ea230963713e)
+![290521126-a396c1f6-dcf3-4643-b812-4037dff54257](https://github.com/dineshdharank/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145980096/723ae87e-8750-4d0e-9bf4-69093b6b86ea)
+
 
 ## Truth Table
 
-![Screenshot 2023-12-15 143016](https://github.com/dineshdharank/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145980096/69a88d80-9ef6-4af8-bbda-0447219c6036)
-
+![290523293-c918dc35-fe54-44d2-a46a-34cb932f7461](https://github.com/dineshdharank/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145980096/6efc39c6-5b3e-4f42-a1cb-de24916ba6f9)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
